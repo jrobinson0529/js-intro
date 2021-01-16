@@ -4,13 +4,13 @@
 
 function yetAnother() {
   console.log('Do something');
-};
+}
 const anotherOne = function() {
   console.log('Do it');
 };
 function oneMore() {
   console.log('Hoisted function call!');
-};
+}
 //Calling a function
 // yetAnother();
 
